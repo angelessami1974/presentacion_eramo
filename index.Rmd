@@ -4,7 +4,14 @@ author: <p align="right"> **Prueba Piloto 01** </p>
 date: <p align = "right"> Noviembre de 2019 </p> 
 
 ---
+<!DOCTYPE html>
+<html>
+  
+  <body>
 
+    
+    
+    
 
 # </br> </br> **Sinópsis** {data-background="plantilla/cap.png" data-background-size=cover}
 <div align="center">
@@ -87,4 +94,10 @@ Integrar, en colaboración con las Unidades del Estado, un sistema de inventario
 ## {data-background="Plantilla/final.png"}
 
 
+
+
+
+
+  </body>
+</html>
 
