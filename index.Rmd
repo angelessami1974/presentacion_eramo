@@ -1,0 +1,90 @@
+---
+title: <img src="plantilla/INEGI_b.png" width="20%" style="background:none; border:none" align="left"/> </br> <b> <p align="right"> Encuesta sobre Residuos Alimenticios y Materia Orgánica (ERAMO)</p> </b> </br>
+author: <p align="right"> **Prueba Piloto 01** </p>
+date: <p align = "right"> Noviembre de 2019 </p> 
+
+---
+
+
+# </br> </br> **Sinópsis** {data-background="plantilla/cap.png" data-background-size=cover}
+<div align="center">
+<div align="center"><img src="imagenes/ERAMO3.gif" width="60%" style="background:none; border:none" align= "center"/>
+<div align="left">.</div>
+</div>
+
+## **¿En qué consistió la prueba piloto 2019 de la ERAMO?** {data-background="plantilla/INEGI-Cintillo3.gif"}
+<div align="justify">
+<div align="justify"><img src="imagenes/resultados1.png" width="50%" style="background:none; border:none" align= "left"/>
+<img src="imagenes/resultados2.png" width="50%" style="background:none; border:none" align= "right"/>.</div>
+</div>
+
+## **Principales Acciones** {data-background="plantilla/INEGI-Cintillo3.gif"}
+<div align="justify">
+<div align="justify">Se llevó a cabo un ejercicio en campo sobre la viabilidad técnica y operativa de una encuesta, para dar respuesta a la necesidad de información sobre la pérdida y desperdicio en toda la cadena alimentaria.
+
+Se aplicó un cuestionario para probar las definiciones y conceptos de la ERAMO misma que retoma el marco metodológico de la FAO.
+
+El uso de un bien público como es la plataforma del BM.<div/>
+</div>
+
+# </br> </br> </br> </br> **Objetivos de la prueba** {data-background="plantilla/cap.png" data-background-size=cover}
+
+## **Objetivos** {data-background="plantilla/INEGI-Cintillo3.gif"}
+<div align="justify">
+<div align="justify"> **Objetivo 1.** Probar el contenido temático y la redacción de las preguntas del instrumento de captación para asegurar que el informante proporcione datos de calidad.
+
+**Objetivo 2.** Probar la estrategia operativa que incluye desde los trámites administrativos, la determinación de la muestra, el levantamiento, captación y procesamiento de la información para asegurar que los procesos de obtención de la información sean los adecuados.<div/>
+</div>
+
+## **Objetivos** {data-background="plantilla/INEGI-Cintillo3.gif"}
+
+<div align="justify">
+<div align="justify">**Objetivo 3.** Probar las herramientas tecnológicas que incluyen la ejecución de app de los entrevistadores, el funcionamiento de los dispositivos móviles y sus características, la comunicación con la nube para envío y recepción de entrevistas, así como la carga y descarga de las bases de datos para el aseguramiento de la información obtenida en campo.
+
+**Objetivo 4.** Probar los mecanismos de supervisión física y virtual para asegurar la obtención, resguardo y procesamiento de los datos obtenidos de las entrevistas.<div/>
+</div>
+
+## **Justificación**  {data-background="plantilla/INEGI-Cintillo3.gif"}
+
+<div align="justify">"El Subsistema Nacional de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano podrá:   
+Integrar, en colaboración con las Unidades del Estado, un sistema de inventarios y encuestas sobre recursos naturales y medio ambiente, cuya información permita la elaboración de indicadores, como mínimo, sobre los siguientes temas: **recursos naturales y clima, así como atmósfera, agua, suelo, flora, fauna, residuos peligrosos y residuos sólidos**." (Artículo 27 de la LSNIEG).
+</div>
+
+## **Utilidad de la información**  {data-background="plantilla/INEGI-Cintillo3.gif"}
+<div align="justify">Con esta prueba se sientan las bases técnicas y conceptuales para obtener información requerida por instituciones internacionales ante la ausencia de datos oficiales para calcular los efectos sociales, económicos y ambientales que resultan de la PDA.
+
+</br></br>Los resultados definitivos de la encuesta, serán de utilidad para la elaboración de políticas públicas que atiendan los problemas que resultan de la cantidad tan grande de alimentos que se pierden en la cadena de abasto alimentaria.
+</div>
+
+## **Utilidad de la información**  {data-background="plantilla/INEGI-Cintillo3.gif"}
+
+<div align="right">
+>- Investigaciones, estudios, análisis.  
+>- Planes y Programas.  
+>- Leyes y Normas.  
+>- Acciones de Gobierno.  
+>- Acciones de particulares.  
+</div>
+
+## **Retos** {data-background="plantilla/INEGI-Cintillo3.gif"}
+
+<div align="justify">
+</br></br>Se crean las condiciones para obtener datos que den soporte el Objetivo de Desarrollo Sostenible 12 que se propone como meta 12.3 que al año 2030 se reduzca a la mitad la pérdida y el desperdicio de alimentos.  
+</div>
+
+## **Siguientes pasos** {data-background="plantilla/INEGI-Cintillo3.gif"}
+<div align="justify"> 
+>- Marco conceptual consensuado.(Recursos naturales; inocuidad; prevención; aprovechamiento; reciclaje; disposición y eliminación, entre otros temas)  
+>- Marco muestral y muestra.    
+>- Datos de calidad (Norma técnica).   
+>- Socios.   
+>- Recursos  
+
+>- Para mayor detalle en otros aspectos metodológicos, consultar el **Documento Metodológico** del Proyecto  
+
+</div>
+
+## {data-background="Plantilla/final.png"}
+
+
+
